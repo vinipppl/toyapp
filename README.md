@@ -1,2 +1,2 @@
 # Toy Application
-Repo to get familiar with GIT and JIRA Integration workflows for automation.
+Repository to get familiar with GIT and JIRA Integration workflows for automation.
